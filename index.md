@@ -10,6 +10,7 @@
     <meta name="application-name" content="02">
     <meta name="msapplication-TileColor" content="#2b5797">
     <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="stylesheet.css" type="text/css">
   </head>
 </html>
 
