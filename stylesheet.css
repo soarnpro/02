@@ -1,4 +1,6 @@
 body {
-  background-image: url("favicon.ico");
-  background-repeat: repeat;
+  border: 2px solid white;
+  padding: 25px;
+  background: url("favicon.ico");
+  background-repeat: space;
 }
