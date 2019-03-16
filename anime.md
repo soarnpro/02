@@ -2,7 +2,7 @@
 # CRUNCHYROLL:
 ---
 
-[ ] love tyrant
+[x] love tyrant
 [ ] plastic memories
 [ ] sound! euphonium
 [ ] demestic girlfriend
@@ -19,7 +19,8 @@
 [ ] trinity seven
 [ ] classroom of the elite
 [ ] reLIFE
-[ ] Yuri!!! on ice THe irregular at magic
+[ ] Yuri!!! on ice 
+[ ] THe irregular at magic
 [ ] zombie land saga
 [ ] twin star exorcists
 [ ] my first girlfriend is a gal
