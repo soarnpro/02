@@ -1,0 +1,7 @@
+# Google Analytics
+google_analytics: UA-114243378-4
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-seo-tag
