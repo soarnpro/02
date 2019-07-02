@@ -37,7 +37,7 @@
 - 08JUNE2019 - 3 gifs | 44 Photos
 
 ---
-# 01-08JUNE Total: 17 gifs | 164 Photos | 1 Video
+# 01-08JUNE2019 Total: 17 gifs | 164 Photos | 1 Video
 
 ---
 - 08JUNE2019 - 2 gifs | 10 Photos | 2 Videos
@@ -51,7 +51,15 @@
 - 16JUNE2019 - N/A |
 
 ---
-# 08-16JUNE Total: 25 gifs | 121 Photos | 6 Videos
+# 08-16JUNE2019 Total: 25 gifs | 121 Photos | 6 Videos
 
 ---
+- 16JUNE2019 - 0 gifs | 28 Photos | 1 Video
+- 17JUNE2019 - N/A |
+- 18JUNE2019 - N/A |
+- 30JUNE2019 - 0 gifs | 299 Photos 
 
+---
+# 16-30JUNE2019 - 0 gifs | 327 Photos | 1 Video
+
+---
