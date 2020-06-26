@@ -1,17 +1,9 @@
-<html>
-  <head>
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=kP3bXYWeO4">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=kP3bXYWeO4">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=kP3bXYWeO4">
-    <link rel="manifest" href="/site.webmanifest?v=kP3bXYWeO4">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg?v=kP3bXYWeO4" color="#5bbad5">
-    <link rel="shortcut icon" href="/favicon.ico?v=kP3bXYWeO4">
-    <meta name="apple-mobile-web-app-title" content="02">
-    <meta name="application-name" content="02">
-    <meta name="msapplication-TileColor" content="#2b5797">
-    <meta name="theme-color" content="#ffffff">
-  </head>
- </html>
+# Offical repository of the 02 imageset, start by me, (soarn)[https://github.com/soarn].
 
-# 02
-20
+There's really no real code bits here, sure there's a website, but it does absolutely nothing, besides tile an image of 02 across your screen.
+
+<div style="text-align:center"><img src="android-chrome-512x512.png" /></div>
+
+If you want to make an actual website, feel free to PR, I only absolutely no one will though.
+
+## If you want to add images to the imageset, make an issue, same with removing images.
